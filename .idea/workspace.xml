@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81a29336-c0f8-4448-b297-217974eaacd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/accesModifiers/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/accesModifiers/Grass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/accesModifiers/world/Field.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/accesModifiers/world/Oak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/accesModifiers/world/Plant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/Example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/array/Example3_matrici.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrayList/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrayList/IteratorApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/breakContinue/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constructor/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constructor/ConstructorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/ArmstrongNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exemple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/ExempluSumaNR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/FirstProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/MissingNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Operatori.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/PlingPlangPlong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Primitive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day1/fct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/doWhileExample/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/forExample/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Ar2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Arrayss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Hamburger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/IndexOf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Isogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifExample/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifExample/NestedIfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part1_Encapsulation/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part1_Encapsulation/AppMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part1_Encapsulation/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part1_Encapsulation/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part2_Mostenire/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part2_Mostenire/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part2_Mostenire/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part2_Mostenire/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/Case.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/Dimension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/Monitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/Motherboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/PC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/Resolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/override/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/override/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/override/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parImpar/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/staticAndFinal/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/staticAndFinal/Thing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/SearchLastString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Split.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/StringRegionMatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/StringReverseExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/StringsMethodsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/switchExample/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/upCastingAndDownCoasting/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/varArgs/VarArgsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/whileExample/App.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1QDzjuWc2GpAS3IglnSvM6JJ5tI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stich\IdeaProjects\Project1\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Hamburger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.homework.Hamburger" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.homework.IndexOf" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IteratorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.arrayList.IteratorApp" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.arrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.proiect1.Main" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.proiect1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.homework.Printer" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Hamburger" />
+        <item itemvalue="Application.IteratorApp" />
+        <item itemvalue="Application.Printer" />
+        <item itemvalue="Application.IndexOf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81a29336-c0f8-4448-b297-217974eaacd0" name="Default Changelist" comment="" />
+      <created>1567320092483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567320092483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
