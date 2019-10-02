@@ -40,6 +40,5 @@ public class Main {
         Orar o1 = new Orar(grup, prof, loc, "10.10.2019", "10-00", "12-00", "Curs initial", materii);
         System.out.println(" ");
         Mesaj mes1 = new Mesaj(students, "2019-09-25", "Voi lipsi in data de 10", grup);
-
     }
 }
