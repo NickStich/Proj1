@@ -16,8 +16,10 @@ public class Materie {
         this.detalii = detalii;
         System.out.println("Detalii despre materie: "+detalii);
         this.profesor = profesor;
-        for (Profesor prof:profesor){
-            System.out.println("Numele profesorului este: "+prof.getNume());
+        for (Profesor prof:profesor) {
+            if (denumire == prof.getMaterie()) {
+                System.out.println("Numele profesorului este: " + prof.getNume()+" "+prof.getPrenume());
+            }
         }
     }
 

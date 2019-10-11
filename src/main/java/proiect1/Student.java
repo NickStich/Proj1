@@ -1,42 +1,44 @@
 package main.java.proiect1;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> VARIABILE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 public class Student {
     private String nume;
     private String prenume;
     private String email;
-   private String dataNasterii;
-   private String telefon;
-   private int nr_grupa;
+    private String dataNasterii;
+    private String telefon;
+    private int nr_grupa;
+
+    //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> CONSTRUCTOR >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
     public Student(String nume, String prenume, String email, String dataNasterii, String telefon, int nr_grupa) {
         this.nume = nume;
-        System.out.println("Numele studentului: "+nume);
+        System.out.println("Numele studentului: " + nume);
         this.prenume = prenume;
-        System.out.println("Prenumele studentului: "+prenume);
+        System.out.println("Prenumele studentului: " + prenume);
         this.email = email;
-        email = nume+"."+prenume+"@gmail.com";
+        email = nume + "." + prenume + "@gmail.com";
         System.out.println("The E-mail ID is: " + email);
         System.out.println("Is the above E-mail ID valid? " + isValid(email));
         this.dataNasterii = dataNasterii;
-        System.out.println("Data nasterii a studentului: "+dataNasterii);
+        System.out.println("Data nasterii a studentului: " + dataNasterii);
         this.telefon = telefon;
         telefon = telefon;
         String regex = "^(\\+4|)?(07[0-8]{1}[0-9]{1}|02[0-9]{2}|03[0-9]{2}){1}?(\\s|\\.|\\-)?([0-9]{3}(\\s|\\.|\\-|)){2}$";
         System.out.println("The phone number is: " + telefon);
         System.out.println("Is the above phone number valid? " + telefon.matches(regex));
         this.nr_grupa = nr_grupa;
-        System.out.println("Grupa este: "+nr_grupa);
+        System.out.println("Grupa este: " + nr_grupa);
+        //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> METODE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
     }
+
     static boolean isValid(String email) {
         String regex = "^[\\w-_\\.+]*[\\w-_\\.]\\@([\\w]+\\.)+[\\w]+[\\w]$";
         return email.matches(regex);
-}
-
-
-
+    }
     public String getNume() {
 
         return nume;
@@ -45,7 +47,7 @@ public class Student {
     public void setNume(String nume) {
 
 
-            this.nume = nume;
+        this.nume = nume;
 
     }
 
@@ -58,6 +60,7 @@ public class Student {
         this.prenume = prenume;
 
     }
+
 
     public String getEmail() {
         return email;
@@ -90,10 +93,18 @@ public class Student {
     public void setGrupa(int nr_grupa) {
 
 
-            this.nr_grupa = nr_grupa;
-
-        }
+        this.nr_grupa = nr_grupa;
 
     }
+
+   /* @Override
+    public String toString() {
+        return "Student{" +
+                "nume='" + nume + '\'' +
+                ", prenume='" + prenume + '\'' +
+                ", nr_grupa=" + nr_grupa +
+                '}';
+    }*/
+}
 
 

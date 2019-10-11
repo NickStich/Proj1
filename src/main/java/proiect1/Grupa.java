@@ -20,16 +20,32 @@ public class Grupa {
         this.an = an;
         System.out.println("Anul grupei este: "+an);
         this.students = students;
-        for (Student student:students){
-            System.out.println("________");
-            System.out.println(student.getNume());
-            System.out.println(student.getPrenume());
+        for (Student student:students) {
+            if (id == student.getGrupa()) {
+                System.out.println("____xx____");
+                System.out.println(student.getNume());
+                System.out.println(student.getPrenume());
+            }
         }
-
         this.mesaj = mesaj;
         System.out.println(mesaj);
 
     }
+    public static String cerinta2(List<Student> student,int gr) {
+        String rez="";
+        for (Student st:student) {
+            if (st.getGrupa() == gr) {
+               rez= st.getNume();
+            }
+        }
+        return rez;
+    }
+    public static void cerinta6(List<Mesaj>mesaj,int id){
+        for (Mesaj mes:mesaj){
+            System.out.println("Mesajul grupei este: "+mes.getMesaj());
+        }
+    }
+
     public int getId() {
         return id;
     }

@@ -3,73 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="81a29336-c0f8-4448-b297-217974eaacd0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/accesModifiers/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/accesModifiers/Grass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/accesModifiers/world/Field.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/accesModifiers/world/Oak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/accesModifiers/world/Plant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/Example2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/array/Example3_matrici.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrayList/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrayList/IteratorApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/breakContinue/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constructor/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constructor/ConstructorDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/ArmstrongNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Exemple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/ExempluSumaNR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/FirstProgram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/MissingNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Operatori.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/PlingPlangPlong.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Primitive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day1/fct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/doWhileExample/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/forExample/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Ar2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Arrayss.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Hamburger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/IndexOf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Isogram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Printer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifExample/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifExample/NestedIfElse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part1_Encapsulation/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part1_Encapsulation/AppMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part1_Encapsulation/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part1_Encapsulation/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part2_Mostenire/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part2_Mostenire/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part2_Mostenire/Fish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part2_Mostenire/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/Case.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/Dimension.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/Monitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/Motherboard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/PC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oopConcepts/part5_Composition/Resolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/override/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/override/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/override/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/parImpar/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/staticAndFinal/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/staticAndFinal/Thing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/SearchLastString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/Split.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/StringRegionMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/StringReverseExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strings/StringsMethodsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/switchExample/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/upCastingAndDownCoasting/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/varArgs/VarArgsExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/whileExample/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Grupa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Grupa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Locatie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Locatie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Materie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Materie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Orar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Orar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Profesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Profesor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project1/main/java/proiect1/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proiect1/Grupa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proiect1/Grupa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proiect1/Locatie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proiect1/Locatie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proiect1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proiect1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proiect1/Materie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proiect1/Materie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proiect1/Orar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proiect1/Orar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proiect1/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proiect1/Profesor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proiect1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proiect1/Student.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +150,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

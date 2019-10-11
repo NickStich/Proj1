@@ -34,8 +34,7 @@ public class Orar {
             System.out.println(mater.getDenumire());
         }
     }
-
-    public List<Grupa> getGrupa() {
+    public  List<Grupa> getGrupa() {
         return grupa;
     }
 

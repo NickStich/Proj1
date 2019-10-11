@@ -30,7 +30,20 @@ public class Profesor {
         System.out.println("Is the teacher active: "+activ);
         this.materie = materie;
     }
-
+    public static void cerinta10 (List<Profesor> profi){
+        for (Profesor pr:profi){
+            if(pr.activ==true){
+                System.out.println(pr.getNume()+" "+pr.getPrenume()+" este disponibil!");
+            }
+        }
+    }
+    public static void cerinta7(List<Profesor> profi) {
+        for (Profesor pr : profi) {
+            if(pr.getAn_angajare()>=2000){
+                System.out.println("Profesorul "+pr.getNume()+" a fost angajat dupa anul 2000!");
+            }
+        }
+    }
     public String getNume() {
         return nume;
     }
